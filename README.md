@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, this is Mackenzie! 👋
 
-<!--
-**MMathisLab/MMathisLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Prof. at EPFL leading a lab that studies adaptive intelligence. What is that? Check out  my prespective piece [here](https://www.arxiv.org/abs/2411.15234). My handle reflects some historical use of GitHub before Orgs 👀 where I used to host all lab repos, but now most are under our Org ➡️ [here](https://github.com/AdaptiveMotorControlLab).
 
-Here are some ideas to get you started:
+Below is a collection of projects I contribute to, with a few hihglights being:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💜 [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut)
+- 🦓 [CEBRA](https://github.com/AdaptiveMotorControlLab/CEBRA)
+- 🎻 [AmadeusGPT](https://www.mackenziemathislab.org/amadeusgpt)
+- 🟠 [CellSeg3D](https://github.com/AdaptiveMotorControlLab/CellSeg3D)
+
+
+Thanks for visiting! 
+
+
+
